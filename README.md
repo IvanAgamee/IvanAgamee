@@ -3,7 +3,7 @@
 
 <!--  -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I%C2%B4m+a+Computer+Systems+Engineer;My+favorite+language+is+Vue.js+;The+power+of+imagination+;makes+us+infinite"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I%C2%B4m+a+Computer+Systems+Engineer;My+favorite+language+is+Vue.js+;The+power+of+imagination+;makes+us+infinite..."></a>
 </p>
 
 
@@ -12,17 +12,16 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zd3lzY283YzNpMmhlMXY5azdoYWRzODlwNWU5dGxua2k2cXJxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWmc7824oXbHenLvXu/giphy.gif" width = 80px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+- I love programming, and I believe that the possibilities of what can be done with it are endless
+- Currently, I'm dedicated to front-end development
+- I am a creative person who enjoys UX and UI
+- Not only do I enjoy learning new things, but I also love sharing that knowledge with others
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
