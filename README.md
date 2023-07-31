@@ -14,16 +14,20 @@
 	
 ## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zd3lzY283YzNpMmhlMXY5azdoYWRzODlwNWU5dGxua2k2cXJxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWmc7824oXbHenLvXu/giphy.gif" width = 80px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
-- I love programming, and I believe that the possibilities of what can be done with it are endless
-- Currently, I'm dedicated to front-end development
-- I am a creative person who enjoys UX and UI
-- Not only do I enjoy learning new things, but I also love sharing that knowledge with others
+<!--Intro start-->
+- 🔭 I am a Front-End Developer working with Vue.js and TypeScript
 
+- 🌱 I am constantly learning new technologies as well. Currently, I am studying Node.js
 
-<br><br>
+- 📝 I'm passionate about writing clean and organized code
+
+- 💬 I have taught web development courses with JavaScript and Web Design courses with Figma
+
+- 📫 Feel free to reach me out **dejamivan@gmail.com**
+  
+<!--Intro end-->
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
