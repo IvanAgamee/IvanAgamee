@@ -40,30 +40,27 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/SASS%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![JavaScript](https://img.shields.io/badge/VueJS%20-%4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/TypeScript%20-%3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-  ![JavaScript](https://img.shields.io/badge/VueJS%20-%COLOR.svg?style=for-the-badge&logo=LOGO&logoColor=COLORDELLOGO)
-  ![JavaScript](https://img.shields.io/badge/VueJS%20-%COLOR.svg?style=for-the-badge&logo=LOGO&logoColor=COLORDELLOGO)
-  ![JavaScript](https://img.shields.io/badge/VueJS%20-%COLOR.svg?style=for-the-badge&logo=LOGO&logoColor=COLORDELLOGO)
-  ![JavaScript](https://img.shields.io/badge/VueJS%20-%COLOR.svg?style=for-the-badge&logo=LOGO&logoColor=COLORDELLOGO)
-  ![JavaScript](https://img.shields.io/badge/VueJS%20-%COLOR.svg?style=for-the-badge&logo=LOGO&logoColor=COLORDELLOGO)
-
+   ![JavaScrisspt](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+   ![JavaScripst](https://img.shields.io/badge/VueJS%20-%4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+   ![JavaScrisspt](https://img.shields.io/badge/Quasar%20-%231976D2.svg?style=for-the-badge&logo=quasar&logoColor=white)
+   ![JavaScrisspt](https://img.shields.io/badge/Vuetify%20-%23D54AAD.svg?style=for-the-badge&logo=vuetify&logoColor=white)
+   
 - **Others Languages**:
   
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
+    ![Python](https://img.shields.io/badge/Java%20-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/PostMan-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![GitHub](https://img.shields.io/badge/Figma-%23D54AAD.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![GitHub](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
 </p>
 
@@ -81,20 +78,15 @@
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanAgamee&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="IvanAgamee"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanAgamee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
 
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
 -----
 
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -103,24 +95,15 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/IvanAgamee" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  IvanAgamee-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
-<br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:dejamivan@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  dejamivan@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -130,23 +113,4 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
