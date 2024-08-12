@@ -54,7 +54,7 @@
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-%23727172.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitHub](https://img.shields.io/badge/PostMan-%23FF0000.svg?style=for-the-badge&logo=postman&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![GitHub](https://img.shields.io/badge/Figma-%23D54AAD.svg?style=for-the-badge&logo=figma&logoColor=white)
