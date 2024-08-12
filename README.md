@@ -2,15 +2,11 @@
 <h1 align="center"><b>Hi, I'm Iván Agame </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--  -->
-<p align="center">
-<img width="500" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I%C2%B4m+a+Computer+Systems+Engineer;My+favorite+language+is+Vue.js+;The+power+of+imagination+;makes+us+infinite..."></a>
-</p>
-
+## <p align="center">
+## <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I%C2%B4m+a+Computer+Systems+Engineer;My+favorite+language+is+Vue.js+;The+power+of+imagination+;makes+us+infinite..."></a>
+## </p>
 
 <br>
-
-
-
 	
 ## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zd3lzY283YzNpMmhlMXY5azdoYWRzODlwNWU5dGxua2k2cXJxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWmc7824oXbHenLvXu/giphy.gif" width = 80px></picture> **About me**
 
