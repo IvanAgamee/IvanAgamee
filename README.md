@@ -1,26 +1,22 @@
 
 <h1 align="center"><b>Hi, I'm Iván Agame </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--  -->
-## <p align="center">
-## <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I%C2%B4m+a+Computer+Systems+Engineer;My+favorite+language+is+Vue.js+;The+power+of+imagination+;makes+us+infinite..."></a>
-## </p>
-
-<br>
-	
 ## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zd3lzY283YzNpMmhlMXY5azdoYWRzODlwNWU5dGxua2k2cXJxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWmc7824oXbHenLvXu/giphy.gif" width = 80px></picture> **About me**
 
 
 <!--Intro start-->
-- 🔭 I am a Front-End Developer working with Vue.js and TypeScript
+- 🔭 I am a Full Stack Developer constantly learning new technologies 
 
-- 🌱 I am constantly learning new technologies as well. Currently, I am studying Node.js
+- 🌱 On the frontend I mainly use Vue js and React
 
-- 📝 I'm passionate about writing clean and organized code
+- 📝 In the backend I use Php with Laravel and Express with Sequelize
 
-- 💬 I have taught web development courses with JavaScript and Web Design courses with Figma
+- 💬 I have the basics of databases such as Postgre SQL and Mongo DB
 
 - 📫 Feel free to reach me out **dejamivan@gmail.com**
+
+- 🌐 Visit my web portfolio to learn more: https://ivanagame.com/
+
   
 <!--Intro end-->
 
@@ -32,30 +28,36 @@
 
 <p align="center">
     
-- **Web Development**:
+- **Frontend**:
 
+   ![CSS3](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
+   ![JavaScripst](https://img.shields.io/badge/VueJS%20-%4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![JavaScrisspt](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![CSS3](https://img.shields.io/badge/SASS%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![JavaScrisspt](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-   ![JavaScripst](https://img.shields.io/badge/VueJS%20-%4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
    ![JavaScrisspt](https://img.shields.io/badge/Quasar%20-%231976D2.svg?style=for-the-badge&logo=quasar&logoColor=white)
    ![JavaScrisspt](https://img.shields.io/badge/Vuetify%20-%23D54AAD.svg?style=for-the-badge&logo=vuetify&logoColor=white)
-   
-- **Others Languages**:
-  
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Java%20-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+   ![JavaScrisspt](https://img.shields.io/badge/Tailwind%20-%23A0F3B0svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+   ![JavaScrisspt](https://img.shields.io/badge/Material%20UI%20-%23E0F7FA.svg?style=for-the-badge&logo=mui&logoColor=black)
+
+- **Backend**:
+
+    ![Git](https://img.shields.io/badge/Php-%23727172.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/Laravel-%23FF5733.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/Express-%234CAF50.svg?style=for-the-badge&logo=express&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Sequelize-%233F51B5.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/MongoDB-%233E8E41.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/PostgreSQL-%234B6A8E.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/PostMan-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/PostMan-%23FF0000.svg?style=for-the-badge&logo=postman&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![GitHub](https://img.shields.io/badge/Figma-%23D54AAD.svg?style=for-the-badge&logo=figma&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![GitHub](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
 </p>
@@ -64,24 +66,6 @@
 <br>
 
 -----
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanAgamee&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="IvanAgamee"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanAgamee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-
-
-</a>
-</div>
-
------
-
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -103,8 +87,14 @@
 </li>
 
 <li>
-<a href="https://drive.google.com/file/d/1KfKxEPzBQW933XyVyR9ICCtKRn1Klclx/view" target="_blank">
+<a href="https://drive.google.com/file/d/1FP5AgB2Bij3B8lr28K_-h-cxMoTQBUQt/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/  Download my CV-%235C3EE8.svg?style=for-the-badge&logo=readdotcv&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<li>
+<a href="https://ivanagame.com/" target="_blank">
+<img src="https://img.shields.io/badge/  Visit my web portfolio-%233E8E41.svg?style=for-the-badge&logo=webmoney&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
