@@ -7,7 +7,7 @@
 <!--Intro start-->
 - 🔭 I am a Full Stack Developer constantly learning new technologies 
 
-- 🌱 On the frontend I mainly use Vue js and React
+- 🌱 In the frontend I mainly use Vue js and React
 
 - 📝 In the backend I use Php with Laravel and Express with Sequelize
 
